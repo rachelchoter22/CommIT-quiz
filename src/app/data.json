@@ -1,0 +1,90 @@
+{
+      "desc": "Which city is the capital of Isrel?",
+      "options": [
+        { "name": "Tel-Aviv", "isChoosen": false, "isRight": false },
+        { "name": "Jerusalem", "isChoosen": false, "isRight": true },
+        { "name": "Ramat-Gan", "isChoosen": false, "isRight": false },
+        { "name": "Jafo", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of German?",
+      "options": [
+        { "name": "Nairobi", "isChoosen": false, "isRight": false },
+        { "name": "Astana", "isChoosen": false, "isRight": false },
+        { "name": "Astana", "isChoosen": false, "isRight": false },
+        { "name": "Berlin", "isChoosen": false, "isRight": true }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of Belarus?",
+      "options": [
+        { "name": "Rome", "isChoosen": false, "isRight": false },
+        { "name": "Tokyo", "isChoosen": false, "isRight": false },
+        { "name": "Minsk", "isChoosen": false, "isRight": true },
+        { "name": "Amman", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of Bulgaria?",
+      "options": [
+        { "name": "Sofia", "isChoosen": false, "isRight": true },
+        { "name": "Conakry", "isChoosen": false, "isRight": false },
+        { "name": "Suva", "isChoosen": false, "isRight": false },
+        { "name": "Djibouti", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of Canada?",
+      "options": [
+        { "name": "Apia", "isChoosen": false, "isRight": false },
+        { "name": "Ottawa", "isChoosen": false, "isRight": true },
+        { "name": "Riyadh", "isChoosen": false, "isRight": false },
+        { "name": "Sao Tome", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of China?",
+      "options": [
+        { "name": "Lilongwe", "isChoosen": false, "isRight": false },
+        { "name": "Monaco", "isChoosen": false, "isRight": false },
+        { "name": "Beijing", "isChoosen": false, "isRight": true },
+        { "name": "Oslo", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of Cuba?",
+      "options": [
+        { "name": "Dakar", "isChoosen": false, "isRight": false },
+        { "name": "Mbabana", "isChoosen": false, "isRight": false },
+        { "name": "Havana", "isChoosen": false, "isRight": true },
+        { "name": "Montevideo", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of Egypt?",
+      "options": [
+        { "name": "Harare", "isChoosen": false, "isRight": false },
+        { "name": "Taipei", "isChoosen": false, "isRight": false },
+        { "name": "Cairo", "isChoosen": false, "isRight": true },
+        { "name": "Colombo", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of France?",
+      "options": [
+        { "name": "Paris", "isChoosen": false, "isRight": true },
+        { "name": "Ljubljana", "isChoosen": false, "isRight": false },
+        { "name": "Mogadishu", "isChoosen": false, "isRight": false },
+        { "name": "Pretoria", "isChoosen": false, "isRight": false }
+      ]
+    },
+    {
+      "desc": "Which city is the capital of India?",
+      "options": [
+        { "name": "Madrid", "isChoosen": false, "isRight": false },
+        { "name": "Juba", "isChoosen": false, "isRight": false },
+        { "name": "Seoul", "isChoosen": false, "isRight": false },
+        { "name": "New Delhi", "isChoosen": false, "isRight": true }
+      ]
+    }

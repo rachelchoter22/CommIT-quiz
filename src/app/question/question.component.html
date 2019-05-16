@@ -1,0 +1,12 @@
+<div>
+    <label>
+        {{question.desc}}
+    </label>
+    <div style="margin-left:45%;text-align:left">
+        <div class="radio" *ngFor="let q of question.options;let i=index">
+            <label>
+                <input type="radio" name="question" [value]="q.name" [checked]=q.isChoosen (change)="updateCoosen(i)" class="left"> {{q.name}}
+            </label>
+        </div>
+    </div>
+</div>
